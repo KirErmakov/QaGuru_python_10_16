@@ -1,1 +1,0 @@
-# QaGuru_python_10_16
